@@ -27,4 +27,4 @@ Learning website development with HTML/CSS/JavaScript
 - git commit --author="gulam7863 <mdgulamsarwar24@gmail.com>" -m "<message>"
 
 8. Pushing the changes
-- git push origin <branch_name>
+- git push https://gulam7863@github.com/gulam7863/Web-Development.git/
