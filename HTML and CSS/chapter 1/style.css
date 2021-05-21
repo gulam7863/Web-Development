@@ -14,15 +14,57 @@ body,html{
     
 }
 .second-row{
-    margin: 150px;
+     margin: auto;
     padding: 50px;
     background: aliceblue;
+    width: 60%;
+    margin-top: -106px;
 }
 .first-header{
     color: #ffffff;
     font-size: 14px;
+    margin: 21px 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    text-transform: uppercase;
+
 }
 .image-logo{
     width: 60px;
     height: 60px;
+}
+.qr img{
+    display: block;
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+}
+.first-header h1{
+    font-size: 18.4px;
+}
+div a{
+    margin: ;
+}
+.signed-in{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+ol li{
+    padding: 10px 15px;
+    font-size: 17px;
+}
+ol{
+    margin-left: -16px;
+}
+.menu{
+    display: inline-block;
+    margin: 0px 2px -3px 2px;
+}
+.settings{
+    display: inline-block;
+    margin: 0px 2px -3px 2px;
+}
+.help-link{
+    color:#009688
 }
